@@ -10,9 +10,9 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 Python3, Tkinter library
 ### Installation
--Clone the repository to your local machi
+-Clone the repository to your local machine
 ```
-git clone https://github.com/[username]/Activity-Tracker.git
+git clone https://github.com/Isaiahdaiz/ActivityTracker.git
 ```
 -Install the required libraries
 ```
@@ -29,9 +29,7 @@ python ActivityTracker.py
 ## Problems and Solutions
 ### The following describes problems I encoutered while developing the Activity Tracker and my solution
 Problem 1: Adding too many programs to check whether they are running slows down the program a lot.
-
 Solution 1: Limit amount of applications allowed to 5
 
 Problem 2: Cannot store tk objects into json file
-
 Solution 2: Load data by pulling json data and convert from int to IntVar (tk object) and vice versa to store
