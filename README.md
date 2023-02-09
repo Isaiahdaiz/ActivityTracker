@@ -20,7 +20,7 @@ pip install tkinter
 ```
 ### Running the program
 ```
-python activitytracker.py
+python ActivityTracker.py
 ```
 ### Built With
 -Python
