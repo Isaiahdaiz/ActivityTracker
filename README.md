@@ -24,6 +24,7 @@ python ActivityTracker.py
 ```
 ### Built With
 -Python
+
 -Tkinter
 
 ## Problems and Solutions
